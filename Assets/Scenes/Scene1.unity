@@ -178,29 +178,8 @@ PrefabInstance:
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
-    m_AddedComponents:
-    - targetCorrespondingSourceObject: {fileID: 2114791839852788594, guid: 40531d1814317294882b3b6f036fca0c, type: 3}
-      insertIndex: -1
-      addedObject: {fileID: 218134083}
+    m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 40531d1814317294882b3b6f036fca0c, type: 3}
---- !u!1 &218134079 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 2114791839852788594, guid: 40531d1814317294882b3b6f036fca0c, type: 3}
-  m_PrefabInstance: {fileID: 143991343}
-  m_PrefabAsset: {fileID: 0}
---- !u!114 &218134083
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 218134079}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: d27b4f345c6721841acabbb0997c9726, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: Assembly-CSharp::Ground
-  player: {fileID: 756564945}
 --- !u!1001 &321753776
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -315,24 +294,6 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 9188726d9de7b5440ab4f5a449ff9113, type: 3}
---- !u!1 &358975926 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 2114791839852788594, guid: 40531d1814317294882b3b6f036fca0c, type: 3}
-  m_PrefabInstance: {fileID: 442516410}
-  m_PrefabAsset: {fileID: 0}
---- !u!114 &358975930
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 358975926}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: d27b4f345c6721841acabbb0997c9726, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: Assembly-CSharp::Ground
-  player: {fileID: 756564945}
 --- !u!1001 &442516410
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -392,10 +353,7 @@ PrefabInstance:
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
-    m_AddedComponents:
-    - targetCorrespondingSourceObject: {fileID: 2114791839852788594, guid: 40531d1814317294882b3b6f036fca0c, type: 3}
-      insertIndex: -1
-      addedObject: {fileID: 358975930}
+    m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 40531d1814317294882b3b6f036fca0c, type: 3}
 --- !u!1001 &445120147
 PrefabInstance:
@@ -791,10 +749,7 @@ PrefabInstance:
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
-    m_AddedComponents:
-    - targetCorrespondingSourceObject: {fileID: 2114791839852788594, guid: 40531d1814317294882b3b6f036fca0c, type: 3}
-      insertIndex: -1
-      addedObject: {fileID: 1641847615}
+    m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 40531d1814317294882b3b6f036fca0c, type: 3}
 --- !u!1 &756564936 stripped
 GameObject:
@@ -1136,42 +1091,6 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 9188726d9de7b5440ab4f5a449ff9113, type: 3}
---- !u!1 &1620443450 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 2114791839852788594, guid: 40531d1814317294882b3b6f036fca0c, type: 3}
-  m_PrefabInstance: {fileID: 1860402364}
-  m_PrefabAsset: {fileID: 0}
---- !u!114 &1620443454
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1620443450}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: d27b4f345c6721841acabbb0997c9726, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: Assembly-CSharp::Ground
-  player: {fileID: 756564945}
---- !u!1 &1641847611 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 2114791839852788594, guid: 40531d1814317294882b3b6f036fca0c, type: 3}
-  m_PrefabInstance: {fileID: 740666830}
-  m_PrefabAsset: {fileID: 0}
---- !u!114 &1641847615
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1641847611}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: d27b4f345c6721841acabbb0997c9726, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: Assembly-CSharp::Ground
-  player: {fileID: 756564945}
 --- !u!1001 &1674487102
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -1288,29 +1207,8 @@ PrefabInstance:
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
-    m_AddedComponents:
-    - targetCorrespondingSourceObject: {fileID: 2114791839852788594, guid: 40531d1814317294882b3b6f036fca0c, type: 3}
-      insertIndex: -1
-      addedObject: {fileID: 1620443454}
+    m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 40531d1814317294882b3b6f036fca0c, type: 3}
---- !u!1 &1967986763 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 2114791839852788594, guid: 40531d1814317294882b3b6f036fca0c, type: 3}
-  m_PrefabInstance: {fileID: 4524429705263910068}
-  m_PrefabAsset: {fileID: 0}
---- !u!114 &1967986767
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1967986763}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: d27b4f345c6721841acabbb0997c9726, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: Assembly-CSharp::Ground
-  player: {fileID: 756564945}
 --- !u!1001 &2085269944
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -1566,10 +1464,7 @@ PrefabInstance:
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
-    m_AddedComponents:
-    - targetCorrespondingSourceObject: {fileID: 2114791839852788594, guid: 40531d1814317294882b3b6f036fca0c, type: 3}
-      insertIndex: -1
-      addedObject: {fileID: 1967986767}
+    m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 40531d1814317294882b3b6f036fca0c, type: 3}
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
